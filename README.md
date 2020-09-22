@@ -8,7 +8,7 @@
 <!-- - 👯 I’m looking to collaborate ???
 - 🤔 I’m looking for help with ??? -->
 
-<table>
+<table border="0">
   <tr>
   <td>
 
