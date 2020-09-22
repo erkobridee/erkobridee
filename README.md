@@ -8,13 +8,7 @@
 <!-- - 👯 I’m looking to collaborate ???
 - 🤔 I’m looking for help with ??? -->
 
-<style>
-.my-profile-table, .my-profile-table tr, .my-profile-table td {
-  border: 0;
-}
-</style>
-
-<table class="my-profile-table">
+<table>
   <tr>
   <td>
 
