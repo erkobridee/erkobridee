@@ -18,7 +18,7 @@
 [<img align="left" alt="erkobridee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="erkobridee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="erkobridee | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="erkobridee | CodeSandBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codesandbox]
+[<img align="left" alt="erkobridee | CodeSandBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" />][codesandbox]
 [<img align="left" alt="erkobridee | Repl.it" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/repl-dot-it.svg" />][replit]
 
 <br />
