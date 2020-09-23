@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=erkobridee.com&style=for-the-badge&url=https%3A%2F%2Ferkobridee.com)](https://erkobridee.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/erkobridee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ferkobridee&screen_name=erkobridee)
-[![sourcerer](<img src="https://sourcerer.io/icons/logo-sharing.svg" height="22px" alt="Sourcerer">)][sourcerer]
+<a href="https://sourcerer.io/erkobridee"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="28px" alt="Sourcerer"></a><br />
 
 ## I'm a Husband, Father, Developer and a Curious Person
 
@@ -94,4 +94,3 @@
 [codepen]: https://codepen.io/erkobridee
 [codesandbox]: https://codesandbox.io/u/erkobridee/
 [replit]: https://repl.it/@erkobridee
-[sourcerer]: https://sourcerer.io/erkobridee
