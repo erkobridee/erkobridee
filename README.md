@@ -8,7 +8,7 @@
 
 - 🔭&nbsp;&nbsp;I’m currently working as **Senior FrontEnd Developer @ [PM-International](https://github.com/pminternational)**
 
-- 🌱&nbsp;&nbsp;I’m currently learning **Digital Arts & Copywriting**
+- 🌱&nbsp;&nbsp;I’m currently learning **Application Telemetry** (MS Azure Monitor > Application Insights)
 
 ### Connect with me:
 
@@ -16,7 +16,8 @@
 [<img align="left" alt="erkobridee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="erkobridee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="erkobridee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="erkobridee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<!--[<img align="left" alt="erkobridee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 
 <br />
 
