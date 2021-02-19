@@ -1,0 +1,24 @@
+{
+  "name": "erkobridee",
+  "version": "1.0.0",
+  "description": "npm business card",
+  "main": "index.js",
+  "bin": {
+    "cli": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erkobridee/erkobridee.git"
+  },
+  "keywords": [
+    "npm",
+    "business",
+    "card"
+  ],
+  "author": "Erko Bridee <erko.bridee@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erkobridee/erkobridee/issues"
+  },
+  "homepage": "https://github.com/erkobridee/erkobridee#readme"
+}
