@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/erkobridee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ferkobridee&screen_name=erkobridee)
 <a href="https://sourcerer.io/erkobridee"><img src="assets/sourcerer.io.svg" height="28px" alt="Sourcerer"></a><br />
 
-my business card on CLI:
+my business card on the CLI:
 
 ```shell
 npx erkobridee
