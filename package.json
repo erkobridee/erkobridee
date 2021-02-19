@@ -1,7 +1,7 @@
 {
   "name": "erkobridee",
   "version": "1.2.0",
-  "description": "npm business card",
+  "description": "This is my personal Business Card",
   "main": "index.js",
   "bin": {
     "cli": "index.js"
@@ -13,7 +13,8 @@
   "keywords": [
     "npm",
     "business",
-    "card"
+    "card",
+    "businesscard"
   ],
   "author": "Erko Bridee <erko.bridee@gmail.com>",
   "license": "ISC",
