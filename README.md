@@ -2,7 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=erkobridee.com&style=for-the-badge&url=https%3A%2F%2Ferkobridee.com)](https://erkobridee.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/erkobridee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ferkobridee&screen_name=erkobridee)
-<a href="https://sourcerer.io/erkobridee"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="28px" alt="Sourcerer"></a><br />
+<a href="https://sourcerer.io/erkobridee"><img src="assets/sourcerer.io.svg" height="28px" alt="Sourcerer"></a><br />
+
+my business card on CLI: `npx erkobridee`
 
 ## I'm a Husband, Father, Developer and a Curious Person
 
@@ -12,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="erkobridee.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="erkobridee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="erkobridee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="erkobridee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="erkobridee.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]&nbsp;&nbsp;
+[<img align="left" alt="erkobridee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;&nbsp;
+[<img align="left" alt="erkobridee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;
+[<img align="left" alt="erkobridee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]&nbsp;&nbsp;
 
 <!--[<img align="left" alt="erkobridee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 
@@ -23,9 +25,9 @@
 
 ### Would you like to see some more code outside of my GitHub profile?
 
-[<img align="left" alt="erkobridee | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="erkobridee | CodeSandBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" />][codesandbox]
-[<img align="left" alt="erkobridee | Repl.it" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/repl-dot-it.svg" />][replit]
+[<img align="left" alt="erkobridee | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]&nbsp;&nbsp;
+[<img align="left" alt="erkobridee | CodeSandBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" />][codesandbox]&nbsp;&nbsp;
+[<img align="left" alt="erkobridee | Repl.it" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/repl-dot-it.svg" />][replit]&nbsp;&nbsp;
 
 <br />
 
