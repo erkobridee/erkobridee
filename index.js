@@ -12,4 +12,6 @@ Github          - https://www.github.com/erkobridee
 REPL.it         - https://repl.it/@erkobridee
 Codesandbox     - https://codesandbox.io/u/erkobridee/
 CodePen         - https://codepen.io/erkobridee
+
+npmjs           - https://www.npmjs.com/org/erkobridee
 `);
