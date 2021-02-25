@@ -14,7 +14,7 @@ npx erkobridee
 
 - 🔭&nbsp;&nbsp;I’m currently working as **Senior FrontEnd Developer @ [PM-International](https://github.com/pminternational)**
 
-- 🌱&nbsp;&nbsp;I’m currently learning **Application Telemetry** (MS Azure Monitor > Application Insights)
+- 🌱&nbsp;&nbsp;I’m currently learning **How to create/deploy/use TS/JS libraries** (NPM and GitHub Packages)
 
 ### Connect with me:
 
