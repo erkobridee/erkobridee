@@ -1,9 +1,9 @@
 ### Hi there, I'm Erko Bridee
 
-[![Website](https://img.shields.io/website?label=erkobridee.com&style=for-the-badge&url=https%3A%2F%2Ferkobridee.com)](https://erkobridee.com)
+[![Website](https://img.shields.io/website?label=erkobridee.com&style=for-the-badge&url=https%3A%2F%2Ferkobridee.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/erkobridee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ferkobridee&screen_name=erkobridee)
-[![Linkedin Badge](https://img.shields.io/badge/-erkobridee-blue?style=for-the-badge&&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erkobridee)](https://www.linkedin.com/in/erkobridee)
-[![Instagram Badge](https://img.shields.io/badge/-erkobridee-fe4a6c?style=for-the-badge&&logo=Instagram&logoColor=white&link=https://instagram.com/erkobridee)](https://instagram.com/erkobridee)
+[![Linkedin Badge](https://img.shields.io/badge/-erkobridee-blue?style=for-the-badge&&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erkobridee)][linkedin]
+[![Instagram Badge](https://img.shields.io/badge/-erkobridee-fe4a6c?style=for-the-badge&&logo=Instagram&logoColor=white&link=https://instagram.com/erkobridee)][instagram]
 <a href="https://sourcerer.io/erkobridee"><img src="assets/sourcerer.io.svg" height="28px" alt="Sourcerer"></a><br />
 
 <!--[<img align="left" alt="erkobridee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
@@ -24,9 +24,9 @@ npx erkobridee
 
 ### Would you like to see some more code outside of my GitHub profile?
 
-[<img align="left" alt="erkobridee | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="erkobridee | CodeSandBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" />][codesandbox]
-[<img align="left" alt="erkobridee | Repl.it" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/repl-dot-it.svg" />][replit]
+[![Repl.it](https://img.shields.io/badge/-codesandbox-555555?style=for-the-badge&logo=codesandbox&logoColor=white)][codesandbox]
+[![Repl.it](https://img.shields.io/badge/-codepen-555555?style=for-the-badge&logo=codepen&logoColor=white)][codepen]
+[![codepen](https://img.shields.io/badge/-repl.it-555555?style=for-the-badge&logo=repl.it&logoColor=white)][replit]
 
 <br />
 
