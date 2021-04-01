@@ -3,7 +3,10 @@
 [![Website](https://img.shields.io/website?label=erkobridee.com&style=for-the-badge&url=https%3A%2F%2Ferkobridee.com)](https://erkobridee.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/erkobridee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ferkobridee&screen_name=erkobridee)
 [![Linkedin Badge](https://img.shields.io/badge/-erkobridee-blue?style=for-the-badge&&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erkobridee)](https://www.linkedin.com/in/erkobridee)
+[![Instagram Badge](https://img.shields.io/badge/-erkobridee-fe4a6c?style=for-the-badge&&logo=Instagram&logoColor=white&link=https://instagram.com/erkobridee)](https://instagram.com/erkobridee)
 <a href="https://sourcerer.io/erkobridee"><img src="assets/sourcerer.io.svg" height="28px" alt="Sourcerer"></a><br />
+
+<!--[<img align="left" alt="erkobridee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 
 my business card on the CLI:
 
@@ -15,16 +18,7 @@ npx erkobridee
 
 - 🔭&nbsp;&nbsp;I’m currently working as **Senior FrontEnd Developer @ [PM-International](https://github.com/pminternational)**
 
-- 🌱&nbsp;&nbsp;I’m currently learning **Microservices Architecture** (NPM and GitHub Packages)
-
-### Connect with me:
-
-[<img align="left" alt="erkobridee.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="erkobridee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="erkobridee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="erkobridee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<!--[<img align="left" alt="erkobridee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+- 🌱&nbsp;&nbsp;I’m currently learning **Microservices Architecture**
 
 <br />
 
