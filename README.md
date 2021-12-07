@@ -71,9 +71,7 @@ npx erkobridee
 <img width="26px" align="left" title="Terminal" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img width="26px" align="left" title="Bash" alt="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 
-<br /><br />
-
----
+<br /><br /><br /><br />
 
 <details>
 <summary>🤩&nbsp;&nbsp;GitHub stats</summary>
@@ -100,6 +98,8 @@ npx erkobridee
 </table>
 </details>
 
+<br /><br />
+
 [website]: https://erkobridee.com
 [twitter]: https://twitter.com/erkobridee
 [youtube]: https://youtube.com/erkobridee
@@ -111,8 +111,6 @@ npx erkobridee
 [codesandbox]: https://codesandbox.io/u/erkobridee/
 [replit]: https://repl.it/@erkobridee
 [codersrank]: https://profile.codersrank.io/user/erkobridee
-
-<br /><br />
 
 ![](https://komarev.com/ghpvc/?username=erkobridee&style=flat-square)
 
