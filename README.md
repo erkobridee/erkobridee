@@ -20,7 +20,9 @@ npx erkobridee
 
 - 🔭&nbsp;&nbsp;I’m currently working as **Senior FrontEnd Developer @ [PM-International](https://github.com/pminternational)**
 
+<!--
 - 🌱&nbsp;&nbsp;I’m currently learning **Microservices Architecture**
+-->
 
 <br />
 
@@ -109,6 +111,10 @@ npx erkobridee
 [codesandbox]: https://codesandbox.io/u/erkobridee/
 [replit]: https://repl.it/@erkobridee
 [codersrank]: https://profile.codersrank.io/user/erkobridee
+
+<br /><br />
+
+![](https://komarev.com/ghpvc/?username=erkobridee&style=flat-square)
 
 <!-- https://yhype.me/ -->
 
