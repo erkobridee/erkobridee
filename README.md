@@ -1,10 +1,3 @@
-<style>
-  .tool {
-    background: white;
-    padding: 4px;
-  }
-</style>
-
 ### Hi there, I'm Erko Bridee
 
 [![Website](https://img.shields.io/website?label=erkobridee.com&style=for-the-badge&url=https%3A%2F%2Ferkobridee.com)][website]
@@ -45,8 +38,8 @@ npx erkobridee
 ### Languages and Tools:
 
 <p align="left">
-<img style="background: white; padding: 4px;" width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-<img class="tool" width="40" height="40" title="HTML5" alt="HTML5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
+<img width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+<img width="40" height="40" title="HTML5" alt="HTML5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
 <img width="40" height="40" title="CSS3" alt="CSS3" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
 <img width="40" height="40" title="TailwindCSS" alt="TailwindCSS" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
 <img width="40" height="40" title="SASS" alt="SASS" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
