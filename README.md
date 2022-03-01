@@ -18,7 +18,8 @@ npx erkobridee
 
 ## I'm a Husband, Father, Developer and a Curious Person
 
-- 🔭&nbsp;&nbsp;I’m currently working as **Senior FrontEnd Developer @ [PM-International](https://github.com/pminternational)**
+- 🔭&nbsp;&nbsp;I’m currently working as **Senior Software Engineer @ [Kodehyve](https://www.kodehyve.com/)**
+<!-- https://github.com/kodehyve -->
 
 <!--
 - 🌱&nbsp;&nbsp;I’m currently learning **Microservices Architecture**
