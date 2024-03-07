@@ -5,7 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-erkobridee-blue?style=for-the-badge&&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erkobridee)][linkedin]
 [![Instagram Badge](https://img.shields.io/badge/-erkobridee-fe4a6c?style=for-the-badge&&logo=Instagram&logoColor=white&link=https://instagram.com/erkobridee)][instagram]
 [![Polywork Badge](https://img.shields.io/badge/-erkobridee-6b56a9?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE5LjEyNSAwSDQuODc1QTQuODY1IDQuODY1IDAgMCAwIDAgNC44NzV2MTQuMjVDMCAyMS44MjUgMi4xNzUgMjQgNC44NzUgMjRoNi42YzIuNyAwIDQuODc1LTIuMTc1IDQuODc1LTQuODc1VjE2LjY1aDIuNzc1YzIuNyAwIDQuODc1LTIuMTc1IDQuODc1LTQuODc1di02LjlDMjQgMi4xNzUgMjEuODI1IDAgMTkuMTI1IDB6TTE2LjUgMS4yNzVoMi42MjVhMy42IDMuNiAwIDAgMSAzLjYgMy42djIuN0gxNi41di02LjN6TTE1LjA3NSA5djYuNDVIOC44NVY5aDYuMjI1ek04Ljg1IDEuMmg2LjIyNXY2LjM3NUg4Ljg1VjEuMnpNMS4yNzUgNC44YTMuNiAzLjYgMCAwIDEgMy42LTMuNkg3LjV2Ni4zNzVIMS4yNzVWNC44ek03LjUgOXY2LjQ1SDEuMlY5aDYuM3ptMCAxMy43MjVINC44YTMuNiAzLjYgMCAwIDEtMy42LTMuNlYxNi44aDYuM3Y1LjkyNXptNy41NzUtMy41MjVhMy42IDMuNiAwIDAgMS0zLjYgMy42SDguODV2LTUuOTI1aDYuMjI1VjE5LjJ6bTcuNjUtNy4zNWEzLjYgMy42IDAgMCAxLTMuNiAzLjZIMTYuNVY5aDYuMjI1djIuODV6Ii8+PC9zdmc+Cg==)][polywork]
-[![CodersRank Badge](https://img.shields.io/badge/-erkobridee-48A3AC?style=for-the-badge&logo=codersrank&logoColor=white&link=https://profile.codersrank.io/user/erkobridee)][codersrank] <a href="https://sourcerer.io/erkobridee"><img src="assets/sourcerer.io.svg" height="28px" alt="Sourcerer"></a>
+
+<!-- [![CodersRank Badge](https://img.shields.io/badge/-erkobridee-48A3AC?style=for-the-badge&logo=codersrank&logoColor=white&link=https://profile.codersrank.io/user/erkobridee)][codersrank] <a href="https://sourcerer.io/erkobridee"><img src="assets/sourcerer.io.svg" height="28px" alt="Sourcerer"></a> -->
 <br />
 
 <!--[<img align="left" alt="erkobridee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
@@ -47,9 +48,10 @@ npx erkobridee
 <img width="40" height="40" title="TypeScript" alt="TypeScript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
 <img width="40" height="40" title="Prettier" alt="Prettier" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
 <img width="40" height="40" title="ESLint" alt="ESLint" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" />
+<img width="40" height="40" title="Svelte" alt="Svelte" src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" />
 <img width="40" height="40" title="React" alt="React" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
 <img width="40" height="40" title="Redux" alt="Redux" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
-<img width="40" height="40" title="Next.js" alt="Next.js" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
+<img width="40" height="40" title="Next.js" alt="Next.js" src="https://www.svgrepo.com/show/306466/next-dot-js.svg" />
 <img width="40" height="40" title="Gatsby" alt="Gatsby" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" />
 <img width="40" height="40" title="GraphQL" alt="GraphQL" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
 <img width="40" height="40" title="Node.js" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
@@ -74,6 +76,7 @@ npx erkobridee
 <img width="40" height="40" title="Jenkins" alt="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img width="40" height="40" title="Markdown" alt="Markdown" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" />
 <img width="40" height="40" title="JSON" alt="JSON" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" />
+<img width="40" height="40" title="Jsonnet" alt="Jsonnet" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jsonnet.svg" />
 <img width="40" height="40" title="YAML" alt="YAML" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" />
 <img width="40" height="40" title="Terminal" alt="Terminal" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" />
 <img width="40" height="40" title="Bash" alt="Bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />

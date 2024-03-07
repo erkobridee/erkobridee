@@ -14,7 +14,7 @@ Codesandbox     - https://codesandbox.io/u/erkobridee
 CodePen         - https://codepen.io/erkobridee
 Stackblitz      - https://stackblitz.com/@erkobridee
 
-CodersRank.io   - https://profile.codersrank.io/user/erkobridee
-
 npmjs           - https://www.npmjs.com/org/erkobridee
 `);
+
+// CodersRank.io   - https://profile.codersrank.io/user/erkobridee
