@@ -100,7 +100,7 @@ npx erkobridee
 <img width="40" height="40" title="RedisDB" alt="RedisDB" src="https://cdn.worldvectorlogo.com/logos/redis.svg" />
 </p>
 
-#### Cloud Providers
+#### Cloud Provider
 
 <p align="left">
 <img width="40" height="40" title="AWS" alt="AWS" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
