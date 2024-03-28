@@ -1,7 +1,7 @@
 ### Hi there, I'm Erko Bridee
 
 [![Website](https://img.shields.io/website?label=erkobridee.com&style=for-the-badge&url=https%3A%2F%2Ferkobridee.com)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/erkobridee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ferkobridee&screen_name=erkobridee)
+[![X (formerly Twitter) Follow](https://img.shields.io/badge/-erkobridee-gray?style=for-the-badge&&logo=x&logoColor=white&link=https://www.linkedin.com/in/erkobridee)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ferkobridee&screen_name=erkobridee)
 [![Linkedin Badge](https://img.shields.io/badge/-erkobridee-blue?style=for-the-badge&&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erkobridee)][linkedin]
 [![Instagram Badge](https://img.shields.io/badge/-erkobridee-fe4a6c?style=for-the-badge&&logo=Instagram&logoColor=white&link=https://instagram.com/erkobridee)][instagram]
 [![Polywork Badge](https://img.shields.io/badge/-erkobridee-6b56a9?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE5LjEyNSAwSDQuODc1QTQuODY1IDQuODY1IDAgMCAwIDAgNC44NzV2MTQuMjVDMCAyMS44MjUgMi4xNzUgMjQgNC44NzUgMjRoNi42YzIuNyAwIDQuODc1LTIuMTc1IDQuODc1LTQuODc1VjE2LjY1aDIuNzc1YzIuNyAwIDQuODc1LTIuMTc1IDQuODc1LTQuODc1di02LjlDMjQgMi4xNzUgMjEuODI1IDAgMTkuMTI1IDB6TTE2LjUgMS4yNzVoMi42MjVhMy42IDMuNiAwIDAgMSAzLjYgMy42djIuN0gxNi41di02LjN6TTE1LjA3NSA5djYuNDVIOC44NVY5aDYuMjI1ek04Ljg1IDEuMmg2LjIyNXY2LjM3NUg4Ljg1VjEuMnpNMS4yNzUgNC44YTMuNiAzLjYgMCAwIDEgMy42LTMuNkg3LjV2Ni4zNzVIMS4yNzVWNC44ek03LjUgOXY2LjQ1SDEuMlY5aDYuM3ptMCAxMy43MjVINC44YTMuNiAzLjYgMCAwIDEtMy42LTMuNlYxNi44aDYuM3Y1LjkyNXptNy41NzUtMy41MjVhMy42IDMuNiAwIDAgMS0zLjYgMy42SDguODV2LTUuOTI1aDYuMjI1VjE5LjJ6bTcuNjUtNy4zNWEzLjYgMy42IDAgMCAxLTMuNiAzLjZIMTYuNVY5aDYuMjI1djIuODV6Ii8+PC9zdmc+Cg==)][polywork]
@@ -38,48 +38,106 @@ npx erkobridee
 
 ### Languages and Tools:
 
+#### Backend
+
 <p align="left">
-<img width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-<img width="40" height="40" title="HTML5" alt="HTML5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
-<img width="40" height="40" title="CSS3" alt="CSS3" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
-<img width="40" height="40" title="TailwindCSS" alt="TailwindCSS" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
-<img width="40" height="40" title="SASS" alt="SASS" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
+<img width="40" height="40" title="Node.js" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+<img width="40" height="40" title="npm" alt="npm" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_npm.svg" />
+<!-- <img width="40" height="40" title="pnpm" alt="pnpm" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_pnpm.svg" /> -->
+<!-- <img width="40" height="40" title="yarn" alt="yarn" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_yarn.svg" /> -->
+<img width="40" height="40" title="Astro" alt="Astro" src="https://www.svgrepo.com/show/373446/astro.svg" />
+<img width="40" height="40" title="Next.js" alt="Next.js" src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" />
+<!-- <img width="40" height="40" title="Next.js" alt="Next.js" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_next.svg" /> -->
+<!-- <img width="40" height="40" title="Gatsby" alt="Gatsby" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" /> -->
+<img width="40" height="40" title="nx.dev" alt="nx.dev" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_light_nx.svg" />
+<!-- <img width="40" height="40" title="nx.dev" alt="nx.dev" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_nx.svg" /> -->
+<img width="40" height="40" title="Vite.js" alt="Vite.js" src="https://www.svgrepo.com/show/354521/vitejs.svg" />
+<!-- <img width="40" height="40" title="Webpack" alt="Webpack" src="https://cdn.worldvectorlogo.com/logos/webpack.svg" /> -->
+<!-- <img width="40" height="40" title="Rollup" alt="Rollup" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_rollup.svg" /> -->
+<!-- <img width="40" height="40" title="Gulp" alt="Gulp" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_gulp.svg" /> -->
+<!-- <img width="40" height="40" title="Grunt" alt="Grunt" src="https://www.svgrepo.com/show/353844/grunt.svg" /> -->
+<img width="40" height="40" title="Java" alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<!-- <img width="40" height="40" title="Maven" alt="Maven" src="https://raw.githubusercontent.com/actions/starter-workflows/main/icons/maven.svg" /> -->
+<!-- <img width="40" height="40" title="Spring" alt="Spring" src="https://www.svgrepo.com/show/354380/spring-icon.svg" /> -->
+<!-- <img width="40" height="40" title="Hibernate" alt="Hibernate" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" /> -->
+<img width="40" height="40" title="Python" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<!-- <img width="40" height="40" title="CSharp" alt="CSharp" src="https://www.svgrepo.com/show/373533/csharp2.svg" /> -->
+<!-- <img width="40" height="40" title="PHP" alt="PHP" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" /> -->
+<!-- <img width="40" height="40" title="Rust" alt="Rust" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_rust.svg" /> -->
+<img width="40" height="40" title="Cypress" alt="Cypress" src="https://www.svgrepo.com/show/330247/cypress.svg" />
+<img width="40" height="40" title="Swagger" alt="Swagger" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_swagger.svg" />
+<img width="40" height="40" title="Postman" alt="Postman" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_postman.svg" />
+<img width="40" height="40" title="REST API" alt="REST API" src="https://www.svgrepo.com/show/447473/rest-api.svg" />
+<img width="40" height="40" title="GraphQL" alt="GraphQL" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
+</p>
+
+#### Frontend
+
+<p align="left">
 <img width="40" height="40" title="JavaScript" alt="JavaScript" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
 <img width="40" height="40" title="TypeScript" alt="TypeScript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
-<img width="40" height="40" title="Prettier" alt="Prettier" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
-<img width="40" height="40" title="ESLint" alt="ESLint" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" />
+<img width="40" height="40" title="HTML5" alt="HTML5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
+<img width="40" height="40" title="CSS3" alt="CSS3" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
+<img width="40" height="40" title="PostCSS" alt="PostCSS" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_postcss.svg" />
+<img width="40" height="40" title="TailwindCSS" alt="TailwindCSS" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
+<img width="40" height="40" title="SASS" alt="SASS" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
 <img width="40" height="40" title="Svelte" alt="Svelte" src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" />
 <img width="40" height="40" title="React" alt="React" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
 <img width="40" height="40" title="Redux" alt="Redux" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
-<img width="40" height="40" title="Next.js" alt="Next.js" src="https://www.svgrepo.com/show/306466/next-dot-js.svg" />
-<img width="40" height="40" title="Gatsby" alt="Gatsby" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" />
-<img width="40" height="40" title="GraphQL" alt="GraphQL" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
-<img width="40" height="40" title="Node.js" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img width="40" height="40" title="Gulp" alt="Gulp" src="https://cdn.worldvectorlogo.com/logos/gulp-1.svg" />
-<img width="40" height="40" title="Webpack" alt="Webpack" src="https://cdn.worldvectorlogo.com/logos/webpack.svg" />
-<img width="40" height="40" title="Python" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-<img width="40" height="40" title="PHP" alt="PHP" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" />
-<img width="40" height="40" title="Java" alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<img width="40" height="40" title="Maven" alt="Maven" src="https://raw.githubusercontent.com/actions/starter-workflows/main/icons/maven.svg" />
+<img width="40" height="40" title="Prettier" alt="Prettier" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
+<img width="40" height="40" title="ESLint" alt="ESLint" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" />
+<img width="40" height="40" title="Storybook" alt="Storybook" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_storybook.svg" />
+</p>
+
+#### Database
+
+<p align="left">
 <img width="40" height="40" title="SQL" alt="SQL" src="https://www.svgrepo.com/show/255832/sql.svg" />
-<img width="40" height="40" title="SQLite" alt="SQLite" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" />
-<img width="40" height="40" title="MySQL" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 <img width="40" height="40" title="PostgreSQL" alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+<img width="40" height="40" title="MySQL" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<img width="40" height="40" title="SQLite" alt="SQLite" src="https://www.svgrepo.com/show/374094/sqlite.svg" />
 <img width="40" height="40" title="MongoDB" alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img width="40" height="40" title="RedisDB" alt="RedisDB" src="https://cdn.worldvectorlogo.com/logos/redis.svg" />
-<img width="40" height="40" title="Git" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img width="40" height="40" title="GitHub" alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
-<img width="40" height="40" title="GitHub Actions" alt="GitHub Actions" src="https://www.svgrepo.com/show/306098/githubactions.svg" />
-<img width="40" height="40" title="MS Azure" alt="MS Azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
-<img width="40" height="40" title="MS Azure DevOps" alt="MS Azure DevOps" src="https://www.svgrepo.com/show/373457/azurepipelines.svg" />
+</p>
+
+#### Cloud Providers
+
+<p align="left">
 <img width="40" height="40" title="AWS" alt="AWS" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
-<img width="40" height="40" title="Jenkins" alt="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+<img width="40" height="40" title="MS Azure" alt="MS Azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
+<img width="40" height="40" title="Google Cloud" alt="Google Cloud" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
+</p>
+
+#### DevOps
+
+<p align="left">
+<img width="40" height="40" title="GitHub Actions" alt="GitHub Actions" src="https://www.svgrepo.com/show/306098/githubactions.svg" />
+<img width="40" height="40" title="MS Azure DevOps" alt="MS Azure DevOps" src="https://www.svgrepo.com/show/373457/azurepipelines.svg" />
+<!-- <img width="40" height="40" title="Jenkins" alt="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" /> -->
+<img width="40" height="40" title="Pulumi" alt="Pulumi" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_pulumi.svg" />
+<img width="40" height="40" title="Jsonnet" alt="Jsonnet" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jsonnet.svg" />
+<!-- <img width="40" height="40" title="Ansible" alt="Ansible" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_ansible.svg" /> -->
+</p>
+
+#### Another Tools
+
+<p align="left">
+<img width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+<img width="40" height="40" title="devcontainer" alt="devcontainer" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_devcontainer.svg" />
+<img width="40" height="40" title="Docker" alt="Docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
+<!-- <img width="40" height="40" title="Kubernetes" alt="Kubernetes" src="https://www.svgrepo.com/show/448233/kubernetes.svg" /> -->
+<img width="40" height="40" title="Git" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img width="40" height="40" title="GitHub" alt="GitHub" src="https://www.svgrepo.com/show/473620/github.svg" />
+<img width="40" height="40" title="GitLab" alt="GitLab" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_gitlab.svg" />
 <img width="40" height="40" title="Markdown" alt="Markdown" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" />
 <img width="40" height="40" title="JSON" alt="JSON" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" />
-<img width="40" height="40" title="Jsonnet" alt="Jsonnet" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jsonnet.svg" />
-<img width="40" height="40" title="YAML" alt="YAML" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" />
+<img width="40" height="40" title="YAML" alt="YAML" src="https://www.svgrepo.com/show/373802/light-yaml.svg" />
+<img width="40" height="40" title="SVG" alt="SVG" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_svg.svg" />
+<img width="40" height="40" title="MacOS" alt="MacOS" src="https://www.svgrepo.com/show/387985/mac-finder.svg" />
+<img width="40" height="40" title="Linux" alt="Linux" src="https://www.svgrepo.com/show/448236/linux.svg" />
 <img width="40" height="40" title="Terminal" alt="Terminal" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" />
-<img width="40" height="40" title="Bash" alt="Bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
+<img width="40" height="40" title="Bash" alt="Bash" src="https://www.svgrepo.com/show/353478/bash-icon.svg" />
+<img width="40" height="40" title="Makefile" alt="Makefile" src="https://www.svgrepo.com/show/366493/text-x-makefile.svg" />
 </p>
 
 <br />
