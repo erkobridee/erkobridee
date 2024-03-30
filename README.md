@@ -162,55 +162,59 @@ https://worldvectorlogo.com/
 <details>
 <summary>🤩&nbsp;&nbsp;GitHub stats</summary>
 
-<div style="margin-top: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-
-<div style="display: flex;">
+<table style="border: 0;">
+<tbody>
+  <tr>
+    <td colspan="2" style="text-align: center;">
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erkobridee&theme=apprentice)
 
-</div>
+</td>
+  </tr>
 
-<div style="display: flex; justify-content: center;  gap: 10px;">
-
-  <div>
+  <tr>
+    <td>
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erkobridee&theme=apprentice)
 
-</div>
-
-  <div>
+</td>
+    <td>
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erkobridee&theme=apprentice)
 
-</div>
+</td>
+  </tr>
 
-  <div>
+  <tr>
+    <td>
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erkobridee&theme=apprentice)
 
-</div>
-
-  <div>
+</td>
+    <td>
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erkobridee&theme=apprentice&utcOffset=0)
 
-</div>
+</td>
+  </tr>
 
-</div>
-
-<div style="display: flex;">
+  <tr>
+    <td colspan="2" style="text-align: center;">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=erkobridee&theme=apprentice&margin-w=10&margin-h=10&no-frame=true&&column=6)](https://github.com/erkobridee)
 
-</div>
+<td>
+  </tr>
 
-<div>
+  <tr>
+    <td colspan="2">
 
-![](https://komarev.com/ghpvc/?username=erkobridee&style=for-the-badge)
+![Hits](https://komarev.com/ghpvc/?username=erkobridee&style=for-the-badge)
 
-</div>
-
-</div>
+</td>
+  </tr>
+</tbody>
+</table>
 
 </details>
 
