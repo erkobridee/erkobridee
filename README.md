@@ -184,9 +184,6 @@ https://worldvectorlogo.com/
 
 </div>
 
-</div>
-<div style="display: flex; justify-content: center;  gap: 10px;">
-
   <div>
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erkobridee&theme=apprentice)
@@ -216,8 +213,6 @@ https://worldvectorlogo.com/
 </div>
 
 </details>
-
-<br />
 
 <!-- ----------------------------------------------------------------------- -->
 
