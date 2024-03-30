@@ -1,4 +1,4 @@
-### Hi there, I'm Erko Bridee
+<!-- ### Hi there, I'm Erko Bridee -->
 
 [![Website](https://img.shields.io/website?label=erkobridee.com&style=for-the-badge&url=https%3A%2F%2Ferkobridee.com)][website]
 [![X (formerly Twitter) Follow](https://img.shields.io/badge/-erkobridee-gray?style=for-the-badge&&logo=x&logoColor=white&link=https://www.linkedin.com/in/erkobridee)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ferkobridee&screen_name=erkobridee)
@@ -7,7 +7,7 @@
 [![Polywork Badge](https://img.shields.io/badge/-erkobridee-6b56a9?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE5LjEyNSAwSDQuODc1QTQuODY1IDQuODY1IDAgMCAwIDAgNC44NzV2MTQuMjVDMCAyMS44MjUgMi4xNzUgMjQgNC44NzUgMjRoNi42YzIuNyAwIDQuODc1LTIuMTc1IDQuODc1LTQuODc1VjE2LjY1aDIuNzc1YzIuNyAwIDQuODc1LTIuMTc1IDQuODc1LTQuODc1di02LjlDMjQgMi4xNzUgMjEuODI1IDAgMTkuMTI1IDB6TTE2LjUgMS4yNzVoMi42MjVhMy42IDMuNiAwIDAgMSAzLjYgMy42djIuN0gxNi41di02LjN6TTE1LjA3NSA5djYuNDVIOC44NVY5aDYuMjI1ek04Ljg1IDEuMmg2LjIyNXY2LjM3NUg4Ljg1VjEuMnpNMS4yNzUgNC44YTMuNiAzLjYgMCAwIDEgMy42LTMuNkg3LjV2Ni4zNzVIMS4yNzVWNC44ek03LjUgOXY2LjQ1SDEuMlY5aDYuM3ptMCAxMy43MjVINC44YTMuNiAzLjYgMCAwIDEtMy42LTMuNlYxNi44aDYuM3Y1LjkyNXptNy41NzUtMy41MjVhMy42IDMuNiAwIDAgMS0zLjYgMy42SDguODV2LTUuOTI1aDYuMjI1VjE5LjJ6bTcuNjUtNy4zNWEzLjYgMy42IDAgMCAxLTMuNiAzLjZIMTYuNVY5aDYuMjI1djIuODV6Ii8+PC9zdmc+Cg==)][polywork]
 
 <!-- [![CodersRank Badge](https://img.shields.io/badge/-erkobridee-48A3AC?style=for-the-badge&logo=codersrank&logoColor=white&link=https://profile.codersrank.io/user/erkobridee)][codersrank] <a href="https://sourcerer.io/erkobridee"><img src="assets/sourcerer.io.svg" height="28px" alt="Sourcerer"></a> -->
-<br />
+<!-- <br /> -->
 
 <!--[<img align="left" alt="erkobridee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 
@@ -17,13 +17,21 @@ my business card on the CLI:
 npx erkobridee
 ```
 
+<br />
+
+## Who am I?
+
+Hey there! I'm Erko Bridee de Almeida Cabrera, a Brazilian tech enthusiast with a big love for gaming, anime, and electronic tunes. I dove into computer science because I couldn't resist uncovering the secrets behind my favorite games! Lucky me, I'm married to an amazing wife who's not just a fantastic mom but also my biggest supporter. Together, we're raising two incredible daughters, and our family adventures are the highlight of my life. I'm all about soaking up knowledge and enjoying every moment with my loved ones. Let's keep exploring and learning together!
+
+<!--
 ## I'm a Husband, Father, Developer and a Curious Person
 
 - 🔭&nbsp;&nbsp;I’m currently working as **Senior Software Engineer**
 
-<!--
 - 🌱&nbsp;&nbsp;I’m currently learning **Microservices Architecture**
 -->
+
+
 
 <br />
 
