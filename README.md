@@ -1,4 +1,4 @@
-## Who am I?
+## :man_technologist: About me :
 
 Hey there! I'm Erko Bridee de Almeida Cabrera, a Brazilian tech enthusiast with a big love for gaming, anime, and electronic tunes. I dove into computer science because I couldn't resist uncovering the secrets behind my favorite games! Lucky me, I'm married to an amazing wife who's not just a fantastic mom but also my biggest supporter. Together, we're raising two incredible daughters, and our family adventures are the highlight of my life. I'm all about soaking up knowledge and enjoying every moment with my loved ones. Let's keep exploring and learning together!
 
@@ -36,17 +36,27 @@ npx erkobridee
 
 <br />
 
-### Languages and Tools:
+## :hammer_and_wrench: Languages and Tools :
+
+<!--
+useful icons/logos repository
+
+https://devicon.dev/
+https://github.com/vscode-icons/vscode-icons/
+https://www.svgrepo.com
+https://www.vectorlogo.zone/
+https://worldvectorlogo.com/
+-->
 
 #### Backend
 
 <p align="left">
-<img width="40" height="40" title="Node.js" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img width="40" height="40" title="npm" alt="npm" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_npm.svg" />
+<a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/"><img width="40" height="40" title="Node.js" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/"><img width="40" height="40" title="npm" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></a>
 <!-- <img width="40" height="40" title="pnpm" alt="pnpm" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_pnpm.svg" /> -->
 <!-- <img width="40" height="40" title="yarn" alt="yarn" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_yarn.svg" /> -->
 <img width="40" height="40" title="Astro" alt="Astro" src="https://www.svgrepo.com/show/373446/astro.svg" />
-<img width="40" height="40" title="Next.js" alt="Next.js" src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" />
+<img width="40" height="40" title="Next.js" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <!-- <img width="40" height="40" title="Next.js" alt="Next.js" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_next.svg" /> -->
 <!-- <img width="40" height="40" title="Gatsby" alt="Gatsby" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" /> -->
 <img width="40" height="40" title="nx.dev" alt="nx.dev" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_light_nx.svg" />
@@ -64,7 +74,7 @@ npx erkobridee
 <!-- <img width="40" height="40" title="CSharp" alt="CSharp" src="https://www.svgrepo.com/show/373533/csharp2.svg" /> -->
 <!-- <img width="40" height="40" title="PHP" alt="PHP" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" /> -->
 <!-- <img width="40" height="40" title="Rust" alt="Rust" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_rust.svg" /> -->
-<img width="40" height="40" title="Cypress" alt="Cypress" src="https://www.svgrepo.com/show/330247/cypress.svg" />
+<img width="40" height="40" title="Cypress" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" />
 <img width="40" height="40" title="Swagger" alt="Swagger" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_swagger.svg" />
 <img width="40" height="40" title="Postman" alt="Postman" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_postman.svg" />
 <img width="40" height="40" title="REST API" alt="REST API" src="https://www.svgrepo.com/show/447473/rest-api.svg" />
@@ -103,7 +113,7 @@ npx erkobridee
 #### Cloud Provider
 
 <p align="left">
-<img width="40" height="40" title="AWS" alt="AWS" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
+<img width="40" height="40" title="AWS" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img width="40" height="40" title="MS Azure" alt="MS Azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 <img width="40" height="40" title="Google Cloud" alt="Google Cloud" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
 </p>
@@ -111,7 +121,7 @@ npx erkobridee
 #### DevOps
 
 <p align="left">
-<img width="40" height="40" title="GitHub Actions" alt="GitHub Actions" src="https://www.svgrepo.com/show/306098/githubactions.svg" />
+<img width="40" height="40" title="GitHub Actions" alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
 <img width="40" height="40" title="MS Azure DevOps" alt="MS Azure DevOps" src="https://www.svgrepo.com/show/373457/azurepipelines.svg" />
 <!-- <img width="40" height="40" title="Jenkins" alt="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" /> -->
 <img width="40" height="40" title="Pulumi" alt="Pulumi" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_pulumi.svg" />
@@ -142,6 +152,9 @@ npx erkobridee
 
 <br />
 
+
+## :fire: My Stats :
+
 <details>
 <summary>🤩&nbsp;&nbsp;GitHub stats</summary>
 <table>
@@ -169,7 +182,9 @@ npx erkobridee
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=erkobridee&style=flat-square)
+<!-- ----------------------------------------------------------------------- -->
+
+![](https://komarev.com/ghpvc/?username=erkobridee&style=for-the-badge)
 
 <!-- https://yhype.me/ -->
 
