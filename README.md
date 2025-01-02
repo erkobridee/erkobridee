@@ -44,10 +44,13 @@ npx erkobridee
 useful icons/logos repository
 
 https://devicon.dev/
-https://github.com/vscode-icons/vscode-icons/
-https://www.svgrepo.com
+https://github.com/devicons/devicon
+https://github.com/vscode-icons/vscode-icons
+https://www.svgrepo.com/
 https://www.vectorlogo.zone/
 https://worldvectorlogo.com/
+https://svgl.app/
+https://github.com/pheralb/svgl
 -->
 
 #### Backend
@@ -63,12 +66,13 @@ https://worldvectorlogo.com/
 <img width="40" height="40" title="nx.dev" alt="nx.dev" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_light_nx.svg" />
 <!-- <img width="40" height="40" title="nx.dev" alt="nx.dev" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_nx.svg" /> -->
 <img width="40" height="40" title="Vite.js" alt="Vite.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+<img width="40" height="40" title="Vitest" alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 <!-- <img width="40" height="40" title="Webpack" alt="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" /> -->
 <!-- <img width="40" height="40" title="Rollup" alt="Rollup" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rollup/rollup-original.svg" /> -->
 <!-- <img width="40" height="40" title="Gulp" alt="Gulp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" /> -->
 <!-- <img width="40" height="40" title="Grunt" alt="Grunt" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original.svg" /> -->
 <img width="40" height="40" title="Jest" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-<img width="40" height="40" title="Cypress" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" />
+<img width="40" height="40" title="Cypress" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
 <img width="40" height="40" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <!-- <img width="40" height="40" title="Maven" alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" /> -->
 <!-- <img width="40" height="40" title="Spring" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> -->
