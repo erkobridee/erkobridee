@@ -147,8 +147,11 @@ https://github.com/pheralb/svgl
 <img width="40" height="40" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img width="40" height="40" title="GitHub" alt="GitHub" src="https://www.svgrepo.com/show/473620/github.svg" />
 <img width="40" height="40" title="GitLab" alt="GitLab" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_gitlab.svg" />
-<img width="40" height="40" title="Markdown" alt="Markdown" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" />
-<img width="40" height="40" title="JSON" alt="JSON" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" />
+<img width="40" height="40" title="MDX" alt="MDX" src="https://www.svgrepo.com/show/354053/mdx.svg" />
+<img width="40" height="40" title="Markdown" alt="Markdown" src="https://www.svgrepo.com/show/441979/markdown.svg" />
+<!--img width="40" height="40" title="Markdown" alt="Markdown" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" /-->
+<img width="40" height="40" title="JSON" alt="JSON" src="https://www.svgrepo.com/show/373711/json2.svg" />
+<!--img width="40" height="40" title="JSON" alt="JSON" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" /-->
 <img width="40" height="40" title="YAML" alt="YAML" src="https://www.svgrepo.com/show/373802/light-yaml.svg" />
 <img width="40" height="40" title="SVG" alt="SVG" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_svg.svg" />
 <img width="40" height="40" title="MacOS" alt="MacOS" src="https://www.svgrepo.com/show/387985/mac-finder.svg" />
@@ -158,6 +161,7 @@ https://github.com/pheralb/svgl
 <img width="40" height="40" title="Makefile" alt="Makefile" src="https://www.svgrepo.com/show/366493/text-x-makefile.svg" />
 <img width="40" height="40" title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 <img width="40" height="40" title="Slack" alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
+<img width="40" height="40" title="MS Teams" alt="MS Teams" src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" />
 </p>
 
 <br />
