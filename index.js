@@ -13,7 +13,7 @@ Codesandbox     - https://codesandbox.io/u/erkobridee
 Stackblitz      - https://stackblitz.com/@erkobridee
 CodePen         - https://codepen.io/erkobridee
 REPL.it         - https://repl.it/@erkobridee
-JSFiddle        - https://jsfiddle.net/user/erkobridee
+JSFiddle        - https://jsfiddle.net/u/erkobridee
 
 npmjs           - https://www.npmjs.com/org/erkobridee
 `);

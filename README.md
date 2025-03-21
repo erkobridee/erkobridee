@@ -238,5 +238,5 @@ https://github.com/pheralb/svgl
 [stackblitz]: https://stackblitz.com/@erkobridee
 [codepen]: https://codepen.io/erkobridee
 [replit]: https://repl.it/@erkobridee
-[jsfiddle]: https://jsfiddle.net/user/erkobridee/
+[jsfiddle]: https://jsfiddle.net/u/erkobridee/
 [codersrank]: https://profile.codersrank.io/user/erkobridee
