@@ -71,7 +71,7 @@ https://github.com/pheralb/svgl
 
 #### Backend
 
-<p align="left">
+<p align="center">
   <code><img width="40" height="40" title="Node.js" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></code>
   <code><img width="40" height="40" title="npm" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></code>
   <!-- <img width="40" height="40" title="pnpm" alt="pnpm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" /> -->
