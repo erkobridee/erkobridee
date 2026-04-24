@@ -101,6 +101,13 @@ https://github.com/pheralb/svgl
     <td align="center" width="60">
       <img width="40" height="40" title="Cypress" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
     </td>
+    <td align="center" width="60"></td>
+    <td align="center" width="60"></td>
+    <td align="center" width="60"></td>
+    <td align="center" width="60"></td>
+    <td align="center" width="60"></td>
+    <td align="center" width="60"></td>
+    <td align="center" width="60"></td>
   </tr>
   <tr>
     <td align="center" width="60">
@@ -121,6 +128,9 @@ https://github.com/pheralb/svgl
     <td align="center" width="60s">
       <img width="40" height="40" title="GraphQL" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
     </td>
+    <td align="center" width="60"></td>
+    <td align="center" width="60"></td>
+    <td align="center" width="60"></td>
   </tr>
 </table>
 
