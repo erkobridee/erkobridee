@@ -38,6 +38,22 @@ npx erkobridee
 
 <br />
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
 ## :hammer_and_wrench: Languages and Tools :
 
 <!--
