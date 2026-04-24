@@ -136,79 +136,206 @@ https://github.com/pheralb/svgl
 
 #### Frontend
 
-<div align="left">
-  <img width="40" height="40" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" height="40" title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img width="40" height="40" title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" height="40" title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" height="40" title="PostCSS" alt="PostCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postcss/postcss-original.svg" />
-  <img width="40" height="40" title="TailwindCSS" alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img width="40" height="40" title="SASS" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img width="40" height="40" title="Svelte" alt="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
-  <img width="40" height="40" title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width="40" height="40" title="Redux" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-  <img width="40" height="40" title="Prettier" alt="Prettier" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
-  <img width="40" height="40" title="ESLint" alt="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
-  <img width="40" height="40" title="Storybook" alt="Storybook" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_storybook.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    </td>
+    <td align="center" width="60"></td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="PostCSS" alt="PostCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postcss/postcss-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="TailwindCSS" alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="SASS" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Svelte" alt="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Redux" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+    </td>
+    <td align="center" width="60"></td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Prettier" alt="Prettier" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="ESLint" alt="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Storybook" alt="Storybook" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_storybook.svg" />
+    </td>
+    <td align="center" width="60"></td>
+  </tr>
+</table>
 
 #### Database
 
-<div align="left">
-  <img width="40" height="40" title="SQL" alt="SQL" src="https://www.svgrepo.com/show/255832/sql.svg" />
-  <img width="40" height="40" title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img width="40" height="40" title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img width="40" height="40" title="SQLite" alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-  <img width="40" height="40" title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img width="40" height="40" title="DynamoDB" alt="DynamoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />
-  <img width="40" height="40" title="RedisDB" alt="RedisDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="SQL" alt="SQL" src="https://www.svgrepo.com/show/255832/sql.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="SQLite" alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="DynamoDB" alt="DynamoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="RedisDB" alt="RedisDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+    </td>
+  </tr>
+</table>
 
 #### Cloud Provider
 
-<div align="left">
-  <img width="40" height="40" title="AWS" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img width="40" height="40" title="MS Azure" alt="MS Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-  <img width="40" height="40" title="Google Cloud" alt="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="AWS" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="MS Azure" alt="MS Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Google Cloud" alt="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+    </td>
+  </tr>
+</table>
 
 #### DevOps
 
-<div align="left">
-  <img width="40" height="40" title="GitHub Actions" alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-  <img width="40" height="40" title="MS Azure DevOps" alt="MS Azure DevOps" src="https://www.svgrepo.com/show/373457/azurepipelines.svg" />
-  <!-- <img width="40" height="40" title="Jenkins" alt="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" /> -->
-  <img width="40" height="40" title="Pulumi" alt="Pulumi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" />
-  <img width="40" height="40" title="Jsonnet" alt="Jsonnet" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jsonnet.svg" />
-  <!-- <img width="40" height="40" title="Ansible" alt="Ansible" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_ansible.svg" /> -->
-</div>
+<!-- <img width="40" height="40" title="Jenkins" alt="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" /> -->
+<!-- <img width="40" height="40" title="Ansible" alt="Ansible" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_ansible.svg" /> -->
+
+<table>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="GitHub Actions" alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="MS Azure DevOps" alt="MS Azure DevOps" src="https://www.svgrepo.com/show/373457/azurepipelines.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Pulumi" alt="Pulumi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Jsonnet" alt="Jsonnet" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jsonnet.svg" />
+    </td>
+  </tr>
+</table>
 
 #### Another Tools
 
-<div align="left">
-  <img width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-  <img width="40" height="40" title="devcontainer" alt="devcontainer" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_devcontainer.svg" />
-  <img width="40" height="40" title="Docker" alt="Docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
-  <!-- <img width="40" height="40" title="Kubernetes" alt="Kubernetes" src="https://www.svgrepo.com/show/448233/kubernetes.svg" /> -->
-  <img width="40" height="40" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" height="40" title="GitHub" alt="GitHub" src="https://www.svgrepo.com/show/473620/github.svg" />
-  <img width="40" height="40" title="GitLab" alt="GitLab" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_gitlab.svg" />
-  <img width="40" height="40" title="MDX" alt="MDX" src="https://www.svgrepo.com/show/354053/mdx.svg" />
-  <img width="40" height="40" title="Markdown" alt="Markdown" src="https://www.svgrepo.com/show/441979/markdown.svg" />
-  <!--img width="40" height="40" title="Markdown" alt="Markdown" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" /-->
-  <img width="40" height="40" title="JSON" alt="JSON" src="https://www.svgrepo.com/show/373711/json2.svg" />
-  <!--img width="40" height="40" title="JSON" alt="JSON" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" /-->
-  <img width="40" height="40" title="YAML" alt="YAML" src="https://www.svgrepo.com/show/373802/light-yaml.svg" />
-  <img width="40" height="40" title="SVG" alt="SVG" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_svg.svg" />
-  <img width="40" height="40" title="MacOS" alt="MacOS" src="https://www.svgrepo.com/show/387985/mac-finder.svg" />
-  <img width="40" height="40" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img width="40" height="40" title="Terminal" alt="Terminal" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" />
-  <img width="40" height="40" title="Bash" alt="Bash" src="https://www.svgrepo.com/show/353478/bash-icon.svg" />
-  <img width="40" height="40" title="Makefile" alt="Makefile" src="https://www.svgrepo.com/show/366493/text-x-makefile.svg" />
-  <img width="40" height="40" title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-  <img width="40" height="40" title="Slack" alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
-  <img width="40" height="40" title="MS Teams" alt="MS Teams" src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" />
-</div>
+<!-- <img width="40" height="40" title="Kubernetes" alt="Kubernetes" src="https://www.svgrepo.com/show/448233/kubernetes.svg" /> -->
+<!--img width="40" height="40" title="Markdown" alt="Markdown" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" /-->
+<!--img width="40" height="40" title="JSON" alt="JSON" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" /-->
+
+<table>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="devcontainer" alt="devcontainer" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_devcontainer.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Docker" alt="Docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
+    </td>
+    <td align="center" width="60"></td>
+    <td align="center" width="60"></td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="GitHub" alt="GitHub" src="https://www.svgrepo.com/show/473620/github.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="GitLab" alt="GitLab" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_gitlab.svg" />
+    </td>
+    <td align="center" width="60"></td>
+    <td align="center" width="60"></td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="MDX" alt="MDX" src="https://www.svgrepo.com/show/354053/mdx.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Markdown" alt="Markdown" src="https://www.svgrepo.com/show/441979/markdown.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="JSON" alt="JSON" src="https://www.svgrepo.com/show/373711/json2.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="YAML" alt="YAML" src="https://www.svgrepo.com/show/373802/light-yaml.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="SVG" alt="SVG" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_svg.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="MacOS" alt="MacOS" src="https://www.svgrepo.com/show/387985/mac-finder.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Terminal" alt="Terminal" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Bash" alt="Bash" src="https://www.svgrepo.com/show/353478/bash-icon.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Makefile" alt="Makefile" src="https://www.svgrepo.com/show/366493/text-x-makefile.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Slack" alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="MS Teams" alt="MS Teams" src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" />
+    </td>
+    <td align="center" width="60"></td>
+    <td align="center" width="60"></td>
+  </tr>
+</table>
 
 <br />
 
