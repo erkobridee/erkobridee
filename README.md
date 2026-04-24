@@ -38,6 +38,21 @@ npx erkobridee
 
 <br />
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=sergebulaev&show_icons=true&theme=radical" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergebulaev&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
 ## :hammer_and_wrench: Languages and Tools :
 
 <!--
