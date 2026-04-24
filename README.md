@@ -56,8 +56,8 @@ https://github.com/pheralb/svgl
 #### Backend
 
 <div width="100%" align="left">
-  <a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/"><img width="40" height="40" title="Node.js" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/"><img width="40" height="40" title="npm" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></a>
+  <img width="40" height="40" title="Node.js" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+  <img width="40" height="40" title="npm" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
   <!-- <img width="40" height="40" title="pnpm" alt="pnpm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" /> -->
   <!-- <img width="40" height="40" title="yarn" alt="yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" /> -->
   <img width="40" height="40" title="Astro" alt="Astro" src="https://www.svgrepo.com/show/373446/astro.svg" />
