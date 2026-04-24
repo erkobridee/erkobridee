@@ -66,59 +66,59 @@ https://github.com/pheralb/svgl
 
 <table>
   <tr>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="Node.js" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="npm" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="pnpm" alt="pnpm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="nx.dev" alt="nx.dev" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_light_nx.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="Astro" alt="Astro" src="https://www.svgrepo.com/show/373446/astro.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="Next.js" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="Vite.js" alt="Vite.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="Vitest" alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="Rollup" alt="Rollup" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rollup/rollup-original.svg" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="Jest" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="Cypress" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="Swagger" alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="Postman" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60">
       <img width="40" height="40" title="REST API" alt="REST API" src="https://www.svgrepo.com/show/447473/rest-api.svg" />
     </td>
-    <td align="center" width="40">
+    <td align="center" width="60s">
       <img width="40" height="40" title="GraphQL" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
     </td>
   </tr>
