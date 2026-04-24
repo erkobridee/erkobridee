@@ -38,21 +38,6 @@ npx erkobridee
 
 <br />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=sergebulaev&show_icons=true&theme=radical" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergebulaev&theme=radical" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
 ## :hammer_and_wrench: Languages and Tools :
 
 <!--
@@ -69,6 +54,10 @@ https://github.com/pheralb/svgl
 -->
 
 #### Backend
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
 
 <div align="left">
   <a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/"><img width="40" height="40" title="Node.js" alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>
@@ -102,6 +91,11 @@ https://github.com/pheralb/svgl
   <img width="40" height="40" title="REST API" alt="REST API" src="https://www.svgrepo.com/show/447473/rest-api.svg" />
   <img width="40" height="40" title="GraphQL" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
 </div>
+
+    </td>
+
+  </tr>
+</table>
 
 #### Frontend
 
