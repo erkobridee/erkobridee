@@ -12,10 +12,10 @@ Github          - https://www.github.com/erkobridee
 Codesandbox     - https://codesandbox.io/u/erkobridee
 Stackblitz      - https://stackblitz.com/@erkobridee
 CodePen         - https://codepen.io/erkobridee
-REPL.it         - https://repl.it/@erkobridee
 JSFiddle        - https://jsfiddle.net/u/erkobridee
 
 npmjs           - https://www.npmjs.com/org/erkobridee
 `);
 
+// REPL.it         - https://repl.it/@erkobridee
 // CodersRank.io   - https://profile.codersrank.io/user/erkobridee
