@@ -88,22 +88,22 @@ https://github.com/pheralb/svgl
       <img width="40" height="40" title="Vite.js" alt="Vite.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
     </td>
     <td align="center" width="60">
-      <img width="40" height="40" title="Vitest" alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
-    </td>
-    <td align="center" width="60">
       <img width="40" height="40" title="Rollup" alt="Rollup" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rollup/rollup-original.svg" />
     </td>
   </tr>
   <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Vitest" alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
+    </td>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Playwright" alt="Playwright" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+    </td>
     <td align="center" width="60">
       <img width="40" height="40" title="Jest" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
     </td>
     <td align="center" width="60">
       <img width="40" height="40" title="Cypress" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
     </td>
-    <td align="center" width="60"></td>
-    <td align="center" width="60"></td>
-    <td align="center" width="60"></td>
     <td align="center" width="60"></td>
     <td align="center" width="60"></td>
     <td align="center" width="60"></td>
@@ -128,7 +128,6 @@ https://github.com/pheralb/svgl
     <td align="center" width="60s">
       <img width="40" height="40" title="GraphQL" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
     </td>
-    <td align="center" width="60"></td>
     <td align="center" width="60"></td>
     <td align="center" width="60"></td>
   </tr>
@@ -209,6 +208,9 @@ https://github.com/pheralb/svgl
       <img width="40" height="40" title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
     </td>
     <td align="center" width="60">
+      <img width="40" height="40" title="ClickHouse" alt="ClickHouse" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" />
+    </td>
+    <td align="center" width="60">
       <img width="40" height="40" title="DynamoDB" alt="DynamoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />
     </td>
     <td align="center" width="60">
@@ -221,6 +223,9 @@ https://github.com/pheralb/svgl
 
 <table>
   <tr>
+    <td align="center" width="60">
+      <img width="40" height="40" title="Cloudflare" alt="Cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+    </td>
     <td align="center" width="60">
       <img width="40" height="40" title="AWS" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
     </td>
