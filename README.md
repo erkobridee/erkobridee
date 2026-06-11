@@ -16,7 +16,8 @@ Hey there! I'm Erko Bridee de Almeida Cabrera, a Brazilian tech enthusiast with 
 [![X (formerly Twitter) Follow](https://img.shields.io/badge/-erkobridee-gray?style=for-the-badge&&logo=x&logoColor=white&link=https://www.linkedin.com/in/erkobridee)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ferkobridee&screen_name=erkobridee)
 [![Linkedin Badge](https://img.shields.io/badge/-erkobridee-blue?style=for-the-badge&&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erkobridee)][linkedin]
 [![Instagram Badge](https://img.shields.io/badge/-erkobridee-fe4a6c?style=for-the-badge&&logo=Instagram&logoColor=white&link=https://instagram.com/erkobridee)][instagram]
-[![Polywork Badge](https://img.shields.io/badge/-erkobridee-6b56a9?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE5LjEyNSAwSDQuODc1QTQuODY1IDQuODY1IDAgMCAwIDAgNC44NzV2MTQuMjVDMCAyMS44MjUgMi4xNzUgMjQgNC44NzUgMjRoNi42YzIuNyAwIDQuODc1LTIuMTc1IDQuODc1LTQuODc1VjE2LjY1aDIuNzc1YzIuNyAwIDQuODc1LTIuMTc1IDQuODc1LTQuODc1di02LjlDMjQgMi4xNzUgMjEuODI1IDAgMTkuMTI1IDB6TTE2LjUgMS4yNzVoMi42MjVhMy42IDMuNiAwIDAgMSAzLjYgMy42djIuN0gxNi41di02LjN6TTE1LjA3NSA5djYuNDVIOC44NVY5aDYuMjI1ek04Ljg1IDEuMmg2LjIyNXY2LjM3NUg4Ljg1VjEuMnpNMS4yNzUgNC44YTMuNiAzLjYgMCAwIDEgMy42LTMuNkg3LjV2Ni4zNzVIMS4yNzVWNC44ek03LjUgOXY2LjQ1SDEuMlY5aDYuM3ptMCAxMy43MjVINC44YTMuNiAzLjYgMCAwIDEtMy42LTMuNlYxNi44aDYuM3Y1LjkyNXptNy41NzUtMy41MjVhMy42IDMuNiAwIDAgMS0zLjYgMy42SDguODV2LTUuOTI1aDYuMjI1VjE5LjJ6bTcuNjUtNy4zNWEzLjYgMy42IDAgMCAxLTMuNiAzLjZIMTYuNVY5aDYuMjI1djIuODV6Ii8+PC9zdmc+Cg==)][polywork]
+
+<!--[![Polywork Badge](https://img.shields.io/badge/-erkobridee-6b56a9?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE5LjEyNSAwSDQuODc1QTQuODY1IDQuODY1IDAgMCAwIDAgNC44NzV2MTQuMjVDMCAyMS44MjUgMi4xNzUgMjQgNC44NzUgMjRoNi42YzIuNyAwIDQuODc1LTIuMTc1IDQuODc1LTQuODc1VjE2LjY1aDIuNzc1YzIuNyAwIDQuODc1LTIuMTc1IDQuODc1LTQuODc1di02LjlDMjQgMi4xNzUgMjEuODI1IDAgMTkuMTI1IDB6TTE2LjUgMS4yNzVoMi42MjVhMy42IDMuNiAwIDAgMSAzLjYgMy42djIuN0gxNi41di02LjN6TTE1LjA3NSA5djYuNDVIOC44NVY5aDYuMjI1ek04Ljg1IDEuMmg2LjIyNXY2LjM3NUg4Ljg1VjEuMnpNMS4yNzUgNC44YTMuNiAzLjYgMCAwIDEgMy42LTMuNkg3LjV2Ni4zNzVIMS4yNzVWNC44ek03LjUgOXY2LjQ1SDEuMlY5aDYuM3ptMCAxMy43MjVINC44YTMuNiAzLjYgMCAwIDEtMy42LTMuNlYxNi44aDYuM3Y1LjkyNXptNy41NzUtMy41MjVhMy42IDMuNiAwIDAgMS0zLjYgMy42SDguODV2LTUuOTI1aDYuMjI1VjE5LjJ6bTcuNjUtNy4zNWEzLjYgMy42IDAgMCAxLTMuNiAzLjZIMTYuNVY5aDYuMjI1djIuODV6Ii8+PC9zdmc+Cg==)][polywork]-->
 
 <!--[<img align="left" alt="erkobridee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 
@@ -33,8 +34,9 @@ npx erkobridee
 [![Code Sandbox](https://img.shields.io/badge/-codesandbox-555555?style=for-the-badge&logo=codesandbox&logoColor=white)][codesandbox]
 [![Stackblitz](https://img.shields.io/badge/-stackblitz-555555?style=for-the-badge&logoColor=white&logo=stackblitz)][stackblitz]
 [![CodePen](https://img.shields.io/badge/-codepen-555555?style=for-the-badge&logo=codepen&logoColor=white)][codepen]
-[![Repl.it](https://img.shields.io/badge/-repl.it-555555?style=for-the-badge&logoColor=white&logo=replit)][replit]
 [![JSFiddle](https://img.shields.io/badge/-jsfiddle-555555?style=for-the-badge&logo=jsfiddle&logoColor=white)][jsfiddle]
+
+<!--[![Repl.it](https://img.shields.io/badge/-repl.it-555555?style=for-the-badge&logoColor=white&logo=replit)][replit]-->
 
 <br />
 
