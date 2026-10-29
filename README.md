@@ -12,6 +12,8 @@ Hey there! I'm Erko Bridee de Almeida Cabrera, a Brazilian tech enthusiast with 
 
 <br />
 
+<!-- https://codeshack.io/svg-to-data-uri-converter/ -->
+
 [![Website](https://img.shields.io/website?label=erkobridee.com&style=for-the-badge&url=https%3A%2F%2Ferkobridee.com)][website]
 [![X (formerly Twitter) Follow](https://img.shields.io/badge/-erkobridee-gray?style=for-the-badge&&logo=x&logoColor=white&link=https://www.linkedin.com/in/erkobridee)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ferkobridee&screen_name=erkobridee)
 [![Linkedin Badge](https://img.shields.io/badge/-erkobridee-blue?style=for-the-badge&&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj4KICA8cGF0aAogICAgZD0iTTQxNiAzMkwzMS45IDMyQzE0LjMgMzIgMCA0Ni41IDAgNjQuM0wwIDQ0Ny43QzAgNDY1LjUgMTQuMyA0ODAgMzEuOSA0ODBMNDE2IDQ4MGMxNy42IDAgMzItMTQuNSAzMi0zMi4zbDAtMzgzLjRDNDQ4IDQ2LjUgNDMzLjYgMzIgNDE2IDMyek0xMzUuNCA0MTZsLTY2LjQgMCAwLTIxMy44IDY2LjUgMCAwIDIxMy44LS4xIDB6TTEwMi4yIDk2YTM4LjUgMzguNSAwIDEgMSAwIDc3IDM4LjUgMzguNSAwIDEgMSAwLTc3ek0zODQuMyA0MTZsLTY2LjQgMCAwLTEwNGMwLTI0LjgtLjUtNTYuNy0zNC41LTU2LjctMzQuNiAwLTM5LjkgMjctMzkuOSA1NC45bDAgMTA1LjgtNjYuNCAwIDAtMjEzLjggNjMuNyAwIDAgMjkuMiAuOSAwYzguOS0xNi44IDMwLjYtMzQuNSA2Mi45LTM0LjUgNjcuMiAwIDc5LjcgNDQuMyA3OS43IDEwMS45bDAgMTE3LjJ6IgogICAgZmlsbD0iI0ZGRkZGRiIgLz4KPC9zdmc+&logoColor=white&link=https://www.linkedin.com/in/erkobridee)][linkedin]
